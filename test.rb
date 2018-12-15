@@ -81,6 +81,7 @@ end
 
 ####################### PROGRAM ###############################
 
+system 'clear'
 read_and_hash
 init_text
 
